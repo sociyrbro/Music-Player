@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">Music Player</string>
+    <string name="app_name">郭理杰2024110213</string>
+    <string name="toolbar_subtitle">基于 Service 的音乐播放器</string>
+    <string name="loading">正在读取歌曲列表…</string>
+    <string name="no_music">没有查询到音乐文件，请先向手机中放入音频文件（例如 /sdcard/Music）</string>
+    <string name="song_count">共 %1$d 首歌曲</string>
+    <string name="permission_denied">没有读取音频的权限，无法显示歌曲列表</string>
+    <string name="unknown_artist">未知艺术家</string>
+    <string name="not_playing">未在播放</string>
+    <string name="hint_playing">正在播放</string>
+    <string name="hint_seek">拖动进度条可以调整播放位置</string>
+    <string name="btn_play">播放</string>
+    <string name="btn_pause">暂停</string>
+    <string name="btn_stop">停止</string>
+    <string name="btn_prev">上一首</string>
+    <string name="btn_next">下一首</string>
+    <string name="time_zero">00:00</string>
+    <string name="notification_channel_name">音乐播放</string>
+    <string name="notification_channel_desc">在通知栏显示当前正在播放的歌曲</string>
+    <string name="notification_title">正在播放：%1$s</string>
+    <string name="play_error">无法播放：%1$s</string>
 </resources>
